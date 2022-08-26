@@ -720,9 +720,11 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    width: 200px;
-    height: 50px;
     margin-left: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 23px;
+
     padding-left: 28px;
     
     background: var(--accent-color);
@@ -737,6 +739,12 @@
 
     color: var(--main-white-color);
 
+  }
+
+  .sub-icon {
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
   }
   
   /* Portfolio */
